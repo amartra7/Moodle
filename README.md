@@ -47,6 +47,10 @@ Como ultimo paso tenemos la entrega de un usuario en una tarea, la calificación
 
 ## Seguridad
 
+<img src=/Seguridad.png/>
+
+Para finalizar esta entrega tenemos las politicas de seguridad de nuestro Moodle (App Web 4).
+
 
 
 
